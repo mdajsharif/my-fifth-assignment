@@ -1,6 +1,3 @@
-
-### 6. Answer the following questions clearly:
-
 1. What is the difference between **getElementById, getElementsByClassName, and querySelector / querySelectorAll**?
     - *getElementById* ID diye ekta specific element select kore.
     - *getElementsByClassName* Same class thake shob element select kore.
